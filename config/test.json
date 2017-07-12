@@ -1,0 +1,14 @@
+{
+  "app" : {
+    "port"  : 8002,
+    "public_url": "http://localhost:8002"
+  },
+  "sqlClient" : {
+    "host" : "localhost",
+    "username" : "root",
+    "port" : 3306,
+    "password" : "emmawatson123",
+    "database" : "intrviewr_test",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb/legacy",
+  "globals": {
+    "$": false,
+    "google": false
+  },
+  "rules": {
+    "no-use-before-define": 0,
+    "func-names": 0,
+    "camelcase": [2, {"properties": "never"}]
+  }
+}
