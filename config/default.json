@@ -7,7 +7,7 @@
     "host" : "localhost",
     "username" : "root",
     "port" : 3306,
-    "password" : "emmawatson123",
+    "password" : "emmawatson",
     "database" : "intrviewr_prod",
     "dialect": "mysql"
   }
